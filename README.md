@@ -6,7 +6,7 @@
 
 ### AI Tools Required: 
 
-# Explanation: 
+# Explanation:
 Define the Two Prompt Types:
 
 Write a basic Prompt: Clear, detailed, and structured prompts that give specific instructions or context to guide the model.
